@@ -1,0 +1,15 @@
+<resources>
+    <dimen name="activity_horizontal_margin">0dp</dimen>
+    <dimen name="activity_vertical_margin">0dp</dimen>
+    <dimen name="activity_store_image_height">90dp</dimen>
+    <dimen name="activity_cart_image_height">80dp</dimen>
+    <dimen name="home_splash">250dp</dimen>
+    <dimen name="splash_size">200dp</dimen>
+    <dimen name="fab_size">56dp</dimen>
+    <dimen name="button_elevation">4dp</dimen>
+    <dimen name="padding_small">4dp</dimen>
+    <dimen name="button_press_elevation">24dp</dimen>
+    <dimen name="text_tiny">12sp</dimen>
+    <dimen name="activity_video_image_width">200dp</dimen>
+    <dimen name="activity_video_image_height">150dp</dimen>
+</resources>

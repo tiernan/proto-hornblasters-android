@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="audio_ambulance">구급차</string>
+    <string name="audio_police">경찰</string>
+    <string name="action_context_website">온라인을 방문하십시오</string>
+    <string name="action_context_horn_details">호른 세부 정보</string>
+    <string name="action_context_set_alarm">으로 설정 알람</string>
+    <string name="action_context_set_notification">으로 설정 알림</string>
+    <string name="action_context_set_ringtone">으로 설정 벨소리</string>
+</resources>

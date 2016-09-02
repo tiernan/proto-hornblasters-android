@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.HornBlasters" parent="Theme.HornBlastersBase"/>
+
+    <style name="Theme.HornBlastersBase" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:textColorPrimary">@android:color/white</item>
+        <item name="actionMenuTextColor">@android:color/white</item>
+        <item name="android:textColorSecondary">@android:color/white</item>
+        <item name="actionBarSize">56dp</item>
+        <item name="drawerArrowStyle">@style/DrawerArrowStyle</item>
+    </style>
+
+    <!--<style name="Theme.HornBlasters.RedBase" parent="Theme.HornBlasters">-->
+    <!--<item name="actionBarStyle">@style/HornBlastersToolbarRed</item>-->
+    <!--<item name="colorPrimaryDark">@color/hornblasters_dark_red</item>-->
+    <!--</style>-->
+
+    <!--<style name="Theme.HornBlasters.RedBlack" parent="Theme.HornBlasters">-->
+    <!--<item name="android:windowBackground">@android:color/black</item>-->
+    <!--<item name="actionBarStyle">@style/HornBlastersToolbarRed</item>-->
+    <!--<item name="colorPrimaryDark">@color/hornblasters_dark_red</item>-->
+    <!--</style>-->
+
+    <style name="Theme.HornBlasters.Red" parent="Theme.HornBlasters">
+        <!--<item name="android:windowBackground">@android:color/white</item>-->
+        <item name="actionBarStyle">@style/HornBlastersToolbarRed</item>
+        <item name="colorPrimaryDark">@color/hornblasters_dark_red</item>
+    </style>
+
+    <style name="Theme.HornBlasters.Orange" parent="Theme.HornBlasters">
+        <!--<item name="android:windowBackground">@android:color/white</item>-->
+        <item name="actionBarStyle">@style/HornBlastersToolbarOrange</item>
+        <item name="colorPrimaryDark">@color/hornblasters_dark_orange</item>
+    </style>
+
+    <style name="Theme.HornBlasters.Blue" parent="Theme.HornBlasters">
+        <!--<item name="android:windowBackground">@android:color/white</item>-->
+        <item name="actionBarStyle">@style/HornBlastersToolbarBlue</item>
+        <item name="colorPrimaryDark">@color/hornblasters_dark_blue</item>
+    </style>
+
+    <style name="HornBlastersToolbarRed">
+        <item name="colorPrimary">@color/hornblasters_red</item>
+        <item name="colorPrimaryDark">@color/hornblasters_dark_red</item>
+        <item name="colorAccent">@color/hornblasters_accent_red</item>
+    </style>
+
+    <style name="HornBlastersToolbarOrange">
+        <item name="colorPrimary">@color/hornblasters_orange</item>
+        <item name="colorPrimaryDark">@color/hornblasters_dark_orange</item>
+        <item name="colorAccent">@color/hornblasters_accent_orange</item>
+    </style>
+
+    <style name="HornBlastersToolbarBlue">
+        <item name="colorPrimary">@color/hornblasters_blue</item>
+        <item name="colorPrimaryDark">@color/hornblasters_dark_blue</item>
+        <item name="colorAccent">@color/hornblasters_accent_blue</item>
+    </style>
+
+    <style name="Theme.HornBlasters.Red.Overlay" parent="Theme.HornBlasters.Red">
+        <item name="android:windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="actionBarStyle">@style/HornBlastersToolbarRed.Overlay</item>
+        <item name="colorPrimaryDark">@android:color/transparent</item>
+    </style>
+
+    <style name="HornBlastersToolbarRed.Overlay" parent="HornBlastersToolbarRed">
+        <item name="windowActionBarOverlay">true</item>
+        <item name="windowActionBar">false</item>
+    </style>
+
+    <style name="DrawerArrowStyle" parent="Widget.AppCompat.DrawerArrowToggle">
+        <item name="spinBars">true</item>
+        <item name="color">@android:color/white</item>
+    </style>
+
+    <style name="Theme.HornBlasters.Splash" parent="Theme.HornBlasters.Red"/>
+</resources>

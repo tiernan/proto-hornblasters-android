@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="audio_ambulance">Ambulance</string>
+    <string name="audio_police">Politie</string>
+    <string name="action_context_website">Bezoek Online</string>
+    <string name="action_context_horn_details">Hoorn Details</string>
+    <string name="action_context_set_alarm">Ingesteld als Alarm</string>
+    <string name="action_context_set_notification">Instellen als Kennisgeving</string>
+    <string name="action_context_set_ringtone">Instellen als Beltoon</string>
+</resources>

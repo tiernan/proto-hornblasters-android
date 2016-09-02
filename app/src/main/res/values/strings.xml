@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">HornBlasters</string>
+    <string name="title_activity_cart">Your Cart</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_checkout">Checkout</string>
+    <string name="title_activity_splash">HornBlasters</string>
+
+    <string name="product_full_name">%1$s %2$s</string>
+    <string name="shipping_method_with_price">%1$s: %2$s</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_fragment_address">Customer</string>
+    <string name="title_fragment_payment">Payment</string>
+    <string name="title_fragment_purchase">Purchase</string>
+    <string name="content_visit_us_online">Visit us online @ www.hornblasters.com</string>
+    <string name="cta_shop_title">Shop Now</string>
+    <string name="cta_shop_caption">Browse our extensive train horn catalog.</string>
+    <string name="cta_horn_kits_title">Train Horn Kits</string>
+    <string name="cta_horn_kits_caption">Find the perfect train horn kit for your vehicle.</string>
+    <string name="cta_browse">BROWSE</string>
+    <string name="cta_soundboard_title">Soundboard</string>
+    <string name="cta_soundboard_caption">Listen to audio clips of our horns before you buy.</string>
+    <string name="cta_listen">LISTEN</string>
+    <string name="cta_guides_title"><![CDATA[Guides & Manuals]]></string>
+    <string name="cta_guides_caption">View or save your equipment manuals for fast and easy reference anywhere.</string>
+    <string name="cta_contact_title">Contact Us</string>
+    <string name="cta_contact_caption">Over the phone or on the web, we\'re here to help you!</string>
+    <string name="cta_follow">Follow Us</string>
+    <string name="cta_follow_caption">There\'s always something interesting happening at HornBlasters. Stay in touch and you won\'t regret it!</string>
+    <string name="cart_subtotal">Subtotal:</string>
+    <string name="cart_tax">Sales Tax:</string>
+    <string name="placeholder_price_zero">$0.00</string>
+    <string name="cart_shipping">Shipping:</string>
+    <string name="cart_total">Order Total:</string>
+    <string name="cta_checkout">Checkout</string>
+    <string name="cart_bill_and_ship_address"><![CDATA[Billing & Shipping Address]]></string>
+    <string name="cart_first_name">First Name</string>
+    <string name="cart_last_name">Last Name</string>
+    <string name="cart_street_address">Street Address</string>
+    <string name="cart_street_extra">Apartment, Unit, etc</string>
+    <string name="cart_city">City</string>
+    <string name="cart_postal">Zip</string>
+    <string name="cart_territory">State</string>
+    <string name="cart_contact">Contact</string>
+    <string name="cart_email">Email</string>
+    <string name="cart_phone">Phone Number</string>
+    <string name="cart_payment">Payment</string>
+    <string name="cart_cc_number">Card Number</string>
+    <string name="cart_cc_month">MM</string>
+    <string name="cart_cc_year">YY</string>
+    <string name="cart_cvv2">CVV2: 123</string>
+    <string name="cart_button_payment">Payment</string>
+    <string name="cart_button_confirm">Confirm</string>
+    <string name="cart_button_back">Back</string>
+    <string name="cart_button_purchase">Purchase</string>
+    <string name="cd_splash_logo">Splash logo</string>
+    <string name="cd_product_image">Product image</string>
+    <string name="cd_train_horn_kits">Train Horn Kits</string>
+    <string name="cd_soundboard">Soundboard</string>
+    <string name="cd_hornblasters">HornBlasters</string>
+    <string name="cd_loading_logo">Loading logo</string>
+    <string name="title_fragment_shipping">Shipping</string>
+    <string name="cart_shipping_options">Shipping Methods</string>
+    <string name="content_special_order">Special Order</string>
+    <string name="content_in_stock">In Stock</string>
+    <string name="content_part_number">"Part: %1$s"</string>
+    <string name="cta_video_title">Watch Our Train Horn Videos</string>
+    <string name="cta_video_caption">Hilarious, absurd, or just showing off; watch some of our classic train horn videos!</string>
+    <string name="drawer_open">Open Drawer</string>
+    <string name="drawer_close">Close Drawer</string>
+    <string name="drawer_title">HornBlasters</string>
+    <string name="content_stock_out">Out of Stock</string>
+    <string name="drawer_image_description">Drawer image</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="shipping_method_ups_ground">UPS Ground</string>
+    <string name="shipping_method_ups_3day">UPS 3 Day Select</string>
+    <string name="shipping_method_ups_2day">UPS 2nd Day Air</string>
+    <string name="shipping_method_ups_1day">UPS 1 Day Air</string>
+    <string name="cart_button_shipping">Shipping</string>
+    <string name="cart_empty">Your Cart Is Empty</string>
+    <string name="cart_db_error_text">Failed to process database</string>
+
+</resources>

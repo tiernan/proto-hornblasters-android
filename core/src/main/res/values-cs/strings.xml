@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="audio_ambulance">Ambulance</string>
+    <string name="audio_police">Policie</string>
+    <string name="action_context_website">Navštivte On-line</string>
+    <string name="action_context_horn_details">Horn Podrobnosti</string>
+    <string name="action_context_set_alarm">Nastavit jako Alarm</string>
+    <string name="action_context_set_notification">Nastavit jako Oznámení</string>
+    <string name="action_context_set_ringtone">Nastavit jako Vyzvánění</string>
+</resources>

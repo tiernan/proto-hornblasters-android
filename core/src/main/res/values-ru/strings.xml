@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="audio_ambulance">Скорая помощь</string>
+    <string name="audio_police">Полиция</string>
+    <string name="action_context_website">Посетите Интернет</string>
+    <string name="action_context_horn_details">Рога Подробности</string>
+    <string name="action_context_set_alarm">Установить в качестве сигнализации</string>
+    <string name="action_context_set_notification">Установить в качестве уведомления</string>
+    <string name="action_context_set_ringtone">Установить в качестве сигнала вызова</string>
+</resources>

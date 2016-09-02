@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="8dp"
+    android:background="@drawable/panel_white"
+    android:orientation="vertical"
+    android:padding="8dp">
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="4dp"
+        android:stretchColumns="1">
+
+        <TableRow>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_column="1"
+                android:padding="4dp"
+                android:text="@string/cart_subtotal"
+                android:textColor="#000000"
+                android:textStyle="bold"/>
+
+            <TextView
+                android:id="@+id/price_subtotal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="end"
+                android:padding="4dp"
+                android:textColor="#000000"
+                android:textStyle="bold"
+                tools:text="@string/placeholder_price"/>
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_column="1"
+                android:padding="4dp"
+                android:text="@string/cart_tax"
+                android:textColor="#000000"/>
+
+            <TextView
+                android:id="@+id/price_tax"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="end"
+                android:padding="4dp"
+                android:textColor="#000000"
+                tools:text="@string/placeholder_price_zero"/>
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_column="1"
+                android:padding="4dp"
+                android:text="@string/cart_shipping"
+                android:textColor="#000000"/>
+
+            <TextView
+                android:id="@+id/price_shipping"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="end"
+                android:padding="4dp"
+                android:textColor="#000000"
+                tools:text="@string/placeholder_price_zero"/>
+        </TableRow>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/rule"
+            android:background="@color/lightest_grey"/>
+
+        <TableRow>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_column="1"
+                android:padding="4dp"
+                android:text="@string/cart_total"
+                android:textColor="#004000"
+                android:textSize="18sp"
+                android:textStyle="bold"/>
+
+            <TextView
+                android:id="@+id/price_total"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="end"
+                android:padding="4dp"
+                android:textColor="#004000"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                tools:text="@string/placeholder_price"/>
+        </TableRow>
+    </TableLayout>
+</LinearLayout>

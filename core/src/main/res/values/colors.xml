@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="hornblasters_red">#FF0000</color>
+    <color name="hornblasters_dark_red">#DD0000</color>
+    <color name="hornblasters_accent_red">#FF5555</color>
+    <color name="hornblasters_orange">#FF7F00</color>
+    <color name="hornblasters_dark_orange">#E06000</color>
+    <color name="hornblasters_accent_orange">#FF8F00</color>
+    <color name="hornblasters_blue">#0050FF</color>
+    <color name="hornblasters_dark_blue">#0030D0</color>
+    <color name="hornblasters_accent_blue">#0055FF</color>
+    <color name="light_grey">#D0D0D0</color>
+    <color name="dark_grey">#303030</color>
+    <color name="medium_grey">#808080</color>
+    <color name="error_red">#FF0000</color>
+    <color name="shipping">#50A000</color>
+    <color name="lightest_grey">#E0E0E0</color>
+
+    <color name="text_primary_dark">#202020</color>
+</resources>

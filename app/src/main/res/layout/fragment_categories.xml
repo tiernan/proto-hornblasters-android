@@ -1,0 +1,10 @@
+<ListView
+    android:id="@+id/category_list"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_margin="0dp"
+    android:divider="#D0D0D0"
+    android:dividerHeight="1dp"
+    tools:listitem="@layout/view_list_category"/>

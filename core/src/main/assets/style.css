@@ -1,0 +1,28 @@
+dt, dd {
+    margin: 10px 0;
+}
+
+dt {
+    font-weight: bold;
+    float: left;
+    clear: both;
+    width: 40%;
+}
+
+dd {
+    float: right;
+    clear: right;
+    width: 60%;
+}
+
+.app-android-hidden, .desktop-display-block {
+    display: none;
+}
+
+a, a:link, a:hover, a:active, a:visited {
+	text-decoration:none;
+}
+a, a:link {
+	color: #000000;
+	font-weight: bold;
+}

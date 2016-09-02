@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="audio_ambulance">Ambulance</string>
+    <string name="audio_police">Politiet</string>
+    <string name="action_context_website">Besøg Online</string>
+    <string name="action_context_horn_details">Horn Detaljer</string>
+    <string name="action_context_set_alarm">Sæt som Alarm</string>
+    <string name="action_context_set_notification">Sæt som Anmeldelse</string>
+    <string name="action_context_set_ringtone">Sæt som Ringetone</string>
+</resources>

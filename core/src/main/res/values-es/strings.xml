@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="audio_ambulance">Ambulancia</string>
+    <string name="audio_police">Policía</string>
+    <string name="action_context_website">Visita en Línea</string>
+    <string name="action_context_horn_details">Detalles de Hornos</string>
+    <string name="action_context_set_alarm">Establecer como Alarma</string>
+    <string name="action_context_set_notification">Establecer como Notificación</string>
+    <string name="action_context_set_ringtone">Establecer como Tono</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.hornblasters.soundboard2.MainActivity">
+    <!--<item android:id="@+id/action_activity_cart"-->
+          <!--android:title="@string/action_activity_cart"-->
+          <!--android:icon="@drawable/toolbar_cart"-->
+          <!--android:orderInCategory="100"-->
+          <!--app:showAsAction="ifRoom"/>-->
+</menu>

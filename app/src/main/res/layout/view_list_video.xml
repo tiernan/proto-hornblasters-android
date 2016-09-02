@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_vertical"
+    android:orientation="horizontal"
+    android:padding="8dp">
+    <!-- Note: This is faster as a linear layout despite what guides will tell you -->
+
+    <ImageView
+        android:id="@+id/video_image"
+        android:layout_width="@dimen/activity_video_image_width"
+        android:layout_height="@dimen/activity_video_image_height"
+        android:adjustViewBounds="true"
+        android:contentDescription="@string/cd_video_thumbnail"
+        android:paddingTop="@dimen/element_padding"
+        android:scaleType="fitCenter"
+        tools:src="@drawable/placeholder169"
+        />
+
+    <TextView
+        android:id="@+id/video_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:textColor="@android:color/white"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        tools:text="@string/placeholder_title_long"/>
+</LinearLayout>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="ga_sessionTimeout">300</integer>
+    <bool name="ga_autoActivityTracking">true</bool>
+
+    <screenName name="com.hornblasters.soundboard2.MainActivity">HornBlasters Home</screenName>
+    <screenName name="com.hornblasters.soundboard2.SoundboardActivity">HornBlasters Soundboard</screenName>
+    <screenName name="com.hornblasters.soundboard2.StoreActivity">HornBlasters Categories</screenName>
+    <screenName name="com.hornblasters.soundboard2.StoreCategoryActivity">HornBlasters Category</screenName>
+    <screenName name="com.hornblasters.soundboard2.ProductActivity">HornBlasters Product</screenName>
+    <screenName name="com.hornblasters.soundboard2.ProductImagesActivity">HornBlasters ProductImages</screenName>
+    <screenName name="com.hornblasters.soundboard2.WebActivity">HornBlasters Web</screenName>
+    <screenName name="com.hornblasters.soundboard2.CartActivity">HornBlasters Cart</screenName>
+    <screenName name="com.hornblasters.soundboard2.CheckoutActivity">HornBlasters Checkout</screenName>
+
+    <string name="ga_trackingId">UA-470222-9</string>
+</resources>

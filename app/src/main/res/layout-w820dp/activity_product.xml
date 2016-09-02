@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.DrawerLayout
+    android:id="@+id/drawer_layout"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:context="com.hornblasters.soundboard2.ProductActivity">
+
+        <include layout="@layout/view_toolbar_blue"/>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="fill_parent"
+            android:background="@android:color/white">
+            <FrameLayout
+                android:id="@+id/fragment_main"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="0.5"/>
+            <View
+                android:layout_width="1dp"
+                android:layout_height="fill_parent"
+                android:background="@color/light_grey"/>
+            <android.support.v4.view.ViewPager
+                android:id="@+id/pager"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="0.5">
+
+                <android.support.v4.view.PagerTitleStrip
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="top"
+                    android:background="#5198ff"
+                    android:padding="8dp"
+                    android:textAppearance="@style/PagerTabStripText"/>
+
+            </android.support.v4.view.ViewPager>
+        </LinearLayout>
+
+
+
+
+    </LinearLayout>
+
+    <include layout="@layout/drawer_main"/>
+</android.support.v4.widget.DrawerLayout>

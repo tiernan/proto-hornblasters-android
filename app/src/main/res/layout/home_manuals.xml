@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:id="@+id/cta_manuals"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="@dimen/layout_margin"
+    android:background="@drawable/panel_orange"
+    android:onClick="ctaListener"
+    android:orientation="vertical"
+    android:padding="12dp">
+
+    <TextView
+        android:id="@+id/cta_manuals_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/cta_guides_title"
+        android:textColor="#FFFFFF"
+        android:textSize="@dimen/text_title"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/cta_manuals_title"
+        android:text="@string/cta_guides_caption"
+        android:textColor="#FFFFFF"
+        android:textSize="14sp"/>
+</RelativeLayout>

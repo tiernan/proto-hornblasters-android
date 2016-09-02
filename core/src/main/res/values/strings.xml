@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" translatable="false" tools:ignore="MissingTranslation">Core Library</string>
+
+    <!-- Placeholder Data -->
+    <string name="placeholder_title_short" translatable="false">Sentiments Entreaties</string>
+    <string name="placeholder_title_medium" translatable="false">Boy Favourable Day Can Introduced</string>
+    <string name="placeholder_title_long" translatable="false">Boy Favourable Day Can Introduced Sentiments Entreaties</string>
+    <string name="placeholder_term" translatable="false">Power:</string>
+    <string name="placeholder_definition" translatable="false">Sentiments entreaties</string>
+    <string name="placeholder_text_short" translatable="false">Boy favourable day can introduced sentiments entreaties.</string>
+    <string name="placeholder_text_medium" translatable="false">Boy favourable day can introduced sentiments entreaties. Noisier carried of in warrant because. So mr plate seems cause chief widen first. Two differed husbands met screened his. Bed was form wife out ask draw. Wholly coming at we no enable.</string>
+    <string name="placeholder_text_long" translatable="false">Boy favourable day can introduced sentiments entreaties. Noisier carried of in warrant because. So mr plate seems cause chief widen first. Two differed husbands met screened his. Bed was form wife out ask draw. Wholly coming at we no enable. Offending sir delivered questions now new met. Acceptance she interested new boisterous day discretion celebrated.</string>
+
+    <!-- Action: Activity -->
+    <string name="action_activity_settings">Settings</string>
+    <string name="action_activity_store_hybrid" translatable="false">Visit Hybrid Store</string>
+    <string name="action_activity_store_native" translatable="false">Visit Store</string>
+    <string name="action_activity_store_web" translatable="false">Visit Web Store</string>
+    <string name="action_activity_cart">View Cart</string>
+
+    <!-- Action: Context -->
+    <string name="action_context_horn_details">Horn Details</string>
+    <string name="action_context_set_alarm">Set as Alarm</string>
+    <string name="action_context_set_notification">Set as Notification</string>
+    <string name="action_context_set_ringtone">Set as Ringtone</string>
+    <string name="action_context_website">Visit Online</string>
+
+    <!-- Action: debug -->
+    <string name="action_debug_clear_cache" translatable="false">Clear Cache</string>
+    <string name="action_debug_clear_cart">Clear Cart</string>
+
+    <!-- Action: feature -->
+    <string name="action_feature_search">Search</string>
+    <string name="action_feature_share">Share</string>
+    <string name="action_feature_website">Visit Website</string>
+
+    <!-- Audio TODO: move to SQLite/XML -->
+    <string name="audio_caboose" translatable="false">Caboose</string>
+    <string name="audio_bandit" translatable="false">Bandit</string>
+    <string name="audio_psycho" translatable="false">PsychoBlasters</string>
+    <string name="audio_psycho_v2" translatable="false">PsychoBlasters V2</string>
+    <string name="audio_nautilus" translatable="false">Nautilus</string>
+    <string name="audio_klaxon" translatable="false">Klaxon</string>
+    <string name="audio_shockers" translatable="false">Shockers</string>
+    <string name="audio_rockers" translatable="false">Rockers</string>
+    <string name="audio_outlaw" translatable="false">Outlaw</string>
+    <string name="audio_train_whistle">Train Whistle</string>
+    <string name="audio_k3" translatable="false">Nathan K3LA</string>
+    <string name="audio_k5" translatable="false">Nathan K5LA</string>
+    <string name="audio_p3" translatable="false">Nathan P3</string>
+    <string name="audio_p5" translatable="false">Nathan P5</string>
+    <string name="audio_police">Police</string>
+    <string name="audio_ambulance">Ambulance</string>
+
+    <!-- Caption: Home -->
+    <string name="caption_home_soundboard">Soundboard</string>
+    <string name="caption_home_store">Store</string>
+
+    <!-- Content -->
+    <string name="content_free_shipping">Free Shipping</string>
+
+    <!-- Errors -->
+    <string name="error_connection">Unable to connect to network.</string>
+    <string name="error_xml">The server sent a bad response.</string>
+
+    <!-- Statuses-->
+    <string name="status_connection_lost">Connection was interrupted.</string>
+    <string name="status_connection_wifi">Connected to WiFi</string>
+
+    <!-- Titles: Activity -->
+    <string name="title_activity_store">HornBlasters Store</string>
+    <string name="title_activity_soundboard">Soundboard</string>
+
+    <!-- Titles: Errors -->
+    <string name="title_error">Error</string>
+
+    <!-- Titles: Fragments -->
+    <string name="title_fragment_specifications">Specifications</string>
+    <string name="title_fragment_video">Video</string>
+    <string name="title_fragment_audio">Audio</string>
+    <string name="title_fragment_overview">Overview</string>
+
+    <!-- Titles: Status -->
+    <string name="title_status_loading">Loading…</string>
+    <string name="cta_add_to_cart">Add to Cart</string>
+    <string name="content_image_product">Product image.</string>
+    <string name="placeholder_price" translatable="false">$599.99</string>
+    <string name="action_debug_clear_addresses">Clear Addresses</string>
+    <string name="cd_video_thumbnail">Video thumbnail</string>
+    <string name="action_activity_videos">Videos</string>
+    <string name="action_debug_clear_picasso_cache">Clear Image Cache</string>
+
+    <!-- Auto generated -->
+</resources>
